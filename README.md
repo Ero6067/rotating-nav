@@ -4,9 +4,10 @@ Written by Kris Lafrance
 
 Uses Javascript, HTML, CSS
 
-# Screenshot
+# Screenshots
 
 ![Example Page](/images/project-example.jpg)
+![Example Page](/images/project-example2.jpg)
 
 # Features
 
