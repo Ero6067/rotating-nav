@@ -6,8 +6,7 @@ Uses Javascript, HTML, CSS
 
 # Screenshots
 
-![Example Page](/images/project-example.jpg)
-![Example Page](/images/project-example2.jpg)
+![Example Page](/images/project-example.gif)
 
 # Features
 
